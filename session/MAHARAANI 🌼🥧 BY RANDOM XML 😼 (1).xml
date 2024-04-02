@@ -1,0 +1,1221 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2023-12-31 04:55 PM
+5.0.214.1001035 (1001035)
+6dde908 (27 Nov 2023 8:59:22 pm)
+-->
+<scene title="MAHARAANI &#127804;&#129383; BY RANDOM XML &#128572;" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="32457" fps="60" modifiedTime="1704021949711" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000038457" filename="MAHARANI - EDIT ---- Alight motion xml(360P).mp4" title="MAHARANI - EDIT ---- Alight motion xml(360P).mp4" type="video/mp4" duration="36409000" size="2308893" fps="0.30" orientation="0" infoUpdated="1704021938369" width="480" height="360" />
+  <media uri="content://media/external/images/media/1000038486" type="image/png" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037871" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038489" type="image/png" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038493" type="image/png" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037878" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037870" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038494" type="image/png" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037858" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037876" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037883" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938369" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037865" filename="photo_1703382431202.jpg" title="photo_1703382431202.jpg" type="image/jpeg" duration="0" size="227769" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038500" type="image/png" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037873" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037879" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038503" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000019102" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037860" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037869" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038497" type="image/png" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037872" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037877" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000038496" type="image/png" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037880" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037868" filename="photo_1703382463982.jpg" title="photo_1703382463982.jpg" type="image/jpeg" duration="0" size="199574" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037867" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037864" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000037857" type="image/jpeg" duration="0" orientation="0" infoUpdated="1704021938370" width="0" height="0" />
+  <audio id="6464755" startTime="0" endTime="32424" src="content://media/external/video/media/1000038457" inTime="4000" outTime="36409" mediaFillMode="fill" />
+  <embedScene id="6464672" label="Group 2" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch" parent="6464673">
+    <transform>
+      <location value="587.731201,0.755754,0.000000" />
+      <scale value="0.952778,0.952778" />
+      <opacity>
+        <kf t="0.665405" v="1.000000" />
+        <kf t="1.013352" v="0.000000" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2999" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <embedScene id="6218238" label="Group and Mask 19" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+          <pivot value="431.123047,0.302734" />
+          <scale value="1.015000,1.015000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="3046" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="6218410" label="Snapinsta.app_1080_82828715_167629021170476_8091445484514982833_n.jpg" startTime="0" endTime="3046" fillType="media" fillImage="content://media/external/images/media/1000037869" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="971.123047,715.302734,0.000000" />
+              <scale value="0.183232,0.183232" />
+            </transform>
+            <property name="size" type="vec2" value="540.000000,578.500000" />
+          </shape>
+          <shape id="6218221" label="Rectangle 7" startTime="0" endTime="3046" fillType="color" blending="mask" mediaFillMode="stretch" s=".rect">
+            <transform>
+              <location value="971.123047,675.302734,0.000000" />
+            </transform>
+            <fillColor value="#ff87f1f9" />
+            <property name="size" type="vec2" value="100.000000,66.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <embedScene id="6218237" label="Group and Mask 18" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+          <pivot value="216.083984,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="399" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="6218409" label="Snapinsta.app_1080_330792847_1242740719955856_1544043478422719399_n.jpg" startTime="0" endTime="399" fillType="media" fillImage="content://media/external/images/media/1000037870" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="756.083984,675.000000,0.000000" />
+              <scale value="0.197429,0.197429" />
+            </transform>
+            <property name="size" type="vec2" value="540.000000,544.500000" />
+          </shape>
+          <shape id="6218222" label="Rectangle 7 Copy" startTime="0" endTime="399" fillType="color" blending="mask" mediaFillMode="stretch" s=".rect">
+            <transform>
+              <location value="756.083984,675.000000,0.000000" />
+            </transform>
+            <fillColor value="#ff87f1f9" />
+            <property name="size" type="vec2" value="100.000000,66.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <embedScene id="6218235" label="Group and Mask 17" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="399" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="6218408" label="Snapinsta.app_1080_332261741_719246706587974_1137914348867411614_n.jpg" startTime="0" endTime="399" fillType="media" fillImage="content://media/external/images/media/1000037871" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="538.931396,716.500000,0.000000" />
+              <scale value="0.188762,0.188762" />
+            </transform>
+            <property name="size" type="vec2" value="540.000000,569.500000" />
+          </shape>
+          <shape id="6218223" label="Rectangle 7 Copy 2" startTime="0" endTime="399" fillType="color" blending="mask" mediaFillMode="stretch" s=".rect">
+            <transform>
+              <location value="540.000000,675.000000,0.000000" />
+            </transform>
+            <fillColor value="#ff87f1f9" />
+            <property name="size" type="vec2" value="100.000000,66.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <embedScene id="6218234" label="Group and Mask 16" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+          <pivot value="-215.888672,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="399" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="6218407" label="Snapinsta.app_1080_316143060_689454612571896_8077784990906560515_n.jpg" startTime="0" endTime="399" fillType="media" fillImage="content://media/external/images/media/1000037876" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="324.111328,705.107422,0.000000" />
+              <scale value="0.185185,0.185185" />
+            </transform>
+            <property name="size" type="vec2" value="540.000000,540.000000" />
+          </shape>
+          <shape id="6218225" label="Rectangle 7 Copy 4" startTime="0" endTime="399" fillType="color" blending="mask" mediaFillMode="stretch" s=".rect">
+            <transform>
+              <location value="324.111328,675.000000,0.000000" />
+            </transform>
+            <fillColor value="#ff87f1f9" />
+            <property name="size" type="vec2" value="100.000000,66.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <embedScene id="6218233" label="Group and Mask 15" startTime="0" endTime="2999" fillType="intrinsic" outTime="2999" mediaFillMode="stretch">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+          <pivot value="-431.240234,0.000000" />
+          <scale value="1.025000,1.025000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1080" height="1350" exportWidth="1080" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="399" fps="30" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="6218406" label="IMG-20230305-WA0013.jpg" startTime="0" endTime="399" fillType="media" fillImage="content://media/external/images/media/1000037857" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="108.759766,732.730347,0.000000" />
+              <scale value="0.206667,0.206667" />
+            </transform>
+            <property name="size" type="vec2" value="510.500000,675.000000" />
+          </shape>
+          <shape id="6218224" label="Rectangle 7 Copy 3" startTime="0" endTime="399" fillType="color" blending="mask" mediaFillMode="stretch" s=".rect">
+            <transform>
+              <location value="108.759766,675.000000,0.000000" />
+            </transform>
+            <fillColor value="#ff87f1f9" />
+            <property name="size" type="vec2" value="100.000000,66.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <shape id="6218219" label="filmstrip_PNG153.png" startTime="0" endTime="2999" fillType="media" fillImage="content://media/external/images/media/1000038307" mediaFillMode="stretch" s=".rect">
+        <transform>
+          <location value="540.000000,675.000000,0.000000" />
+        </transform>
+        <effect id="com.alightcreative.replacecolor" locallyApplied="true">
+          <property name="oldcolor" type="color" value="#ff000000" />
+          <property name="newcolor" type="color" value="#ff888888" />
+          <property name="threshold" type="float" value="0.250000" />
+          <property name="feather" type="float" value="0.250000" />
+          <property name="alpha" type="float" value="1.000000" />
+          <property name="lockLuminance" type="bool" value="false" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,95.000000" />
+      </shape>
+    </scene>
+  </embedScene>
+  <nullobj id="6464673" label="Null 1" startTime="0" endTime="1015" mediaFillMode="stretch" parent="6464674" type="perspective">
+    <transform>
+      <location>
+        <kf t="-3.933006" v="386.500000,7.554688,-1289.000000" />
+        <kf t="-2.964533" v="386.500000,7.554688,-720.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464674" label="Null 2" startTime="0" endTime="1015" mediaFillMode="stretch" parent="6464675" type="perspective">
+    <transform>
+      <location>
+        <kf t="-3.194087" v="0.000000,0.000000,0.000000" />
+        <kf t="-1.962561" v="-353.553284,72.339844,243.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464675" label="Null 3" startTime="0" endTime="1015" mediaFillMode="stretch" parent="6464676" type="perspective">
+    <transform>
+      <location>
+        <kf t="-2.192119" v="0.000000,0.000000,0.000000" />
+        <kf t="-0.960593" v="-845.142822,-46.500000,-132.973145" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464676" label="Null 4" startTime="0" endTime="1015" mediaFillMode="stretch" parent="6464677" type="perspective">
+    <transform>
+      <location>
+        <kf t="-1.256157" v="0.000000,0.000000,0.000000" />
+        <kf t="0.007880" v="-275.035278,-1.500000,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464677" label="Null 5" startTime="0" endTime="1015" mediaFillMode="stretch" parent="6464681" type="perspective">
+    <transform>
+      <location>
+        <kf t="-0.270935" v="0.000000,0.000000,0.000000" />
+        <kf t="0.993102" v="574.500000,8.483215,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <shape id="6464678" label="1703767644041.png" startTime="1000" endTime="4015" fillType="media" fillImage="content://media/external/images/media/1000038486" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="561.731506,1252.427734,-716.255615" />
+        <kf t="0.334328" v="573.731506,-40.377747,-716.255615" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.000000" v="91.097565" />
+        <kf t="0.334328" v="0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.000000" />
+      <property name="end" type="float" value="0.856000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="14.400001" />
+    </effect>
+    <shadow direction="outside">
+      <size value="134.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="578.078613,488.892639" />
+  </shape>
+  <embedScene id="6464679" label="Group 1" startTime="1750" endTime="4015" fillType="intrinsic" outTime="2265" mediaFillMode="stretch" parent="6464673">
+    <transform>
+      <location value="948.378418,99.601318,-944.114624" />
+      <pivot value="0.000000,6.500000" />
+      <scale>
+        <kf t="0.000000" v="0.035211,0.035211" />
+        <kf t="0.555408" v="0.697183,0.697183" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+    </transform>
+    <fillColor value="#ff000000" />
+    <shadow direction="outside">
+      <size value="126.000000" />
+    </shadow>
+    <scene title="" width="1136" height="1350" exportWidth="1136" exportHeight="1350" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2265" fps="60" modifiedTime="0" amver="1001035" ffver="106" am="com.alightcreative.motion/5.0.214.1001035" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="6300891" label="Rounded Rectangle 1" startTime="0" endTime="2265" fillType="color" mediaFillMode="stretch" s=".roundrect">
+        <transform>
+          <location value="570.086548,685.432800,0.000000" />
+        </transform>
+        <fillColor value="#ffff00bf" />
+        <property name="size" type="vec2" value="336.327148,175.550354" />
+        <property name="cornerRadius" type="float" value="70.432556" />
+      </shape>
+      <text id="6300892" startTime="0" endTime="2265" fillType="color" mediaFillMode="stretch" size="20.000000" font="imported?name=La Cebadita.ttf" wrapWidth="512" align="center">
+        <transform>
+          <location value="568.000000,681.500000,-80.500000" />
+          <scale value="2.218750,2.218750" />
+        </transform>
+        <content>DEDO MIC 
+PE LIGHT UP</content>
+      </text>
+    </scene>
+  </embedScene>
+  <shape id="6464680" label="Screenshot_2023-12-28-17-28-08-369_com.instagram.android-edit.jpg" startTime="2766" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000037871" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="1649.770630,-311.651306,-1238.473633" />
+      <rotation value="-90.000000" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,599.000000" />
+  </shape>
+  <nullobj id="6464681" label="Null 6" startTime="0" endTime="4015" mediaFillMode="stretch" parent="6464682" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.209466" v="0.000000,0.000000,0.000000" />
+        <kf t="0.500126" v="0.000000,0.000000,1281.968750" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464682" label="Null 7" startTime="0" endTime="4015" mediaFillMode="stretch" parent="6464693" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.429639" v="0.000000,0.000000,0.000000" />
+        <kf t="0.744957" v="-217.459778,161.307556,200.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <shape id="6464683" label="1703768611378.png" startTime="4000" endTime="7015" fillType="media" fillImage="content://media/external/images/media/1000038489" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location value="1662.120728,-320.276947,-2087.879395" />
+      <scale>
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.317745" v="0.498519,0.498519" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+      <rotation>
+        <kf t="0.000000" v="-1.097565" />
+        <kf t="0.317745" v="-90.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="101.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="450.000000,675.000000" />
+  </shape>
+  <text id="6464684" startTime="5000" endTime="9015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Market_Deco.ttf" wrapWidth="217" align="center">
+    <transform>
+      <location>
+        <kf t="0.000000" v="1739.928101,-267.194794,-2061.879395" />
+        <kf t="0.122291" v="1722.366089,-570.694824,-2061.879395" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="6.442396,6.442396" />
+      <rotation value="-90.000000" />
+    </transform>
+    <shadow direction="outside">
+      <size value="70.000000" />
+    </shadow>
+    <content>&amp;</content>
+  </text>
+  <text id="6464685" startTime="5000" endTime="9015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=La Cebadita.ttf" wrapWidth="319" align="center">
+    <transform>
+      <location value="1652.895020,-958.348145,-1267.591797" />
+      <scale>
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.130760" v="5.661442,5.661442" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+    </transform>
+    <shadow direction="outside">
+      <size value="49.000000" />
+    </shadow>
+    <content>I swear to </content>
+  </text>
+  <text id="6464686" startTime="5500" endTime="9015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Market_Deco.ttf" wrapWidth="221" align="left">
+    <transform>
+      <location value="1628.423096,-1024.798828,-2120.383789" />
+      <scale>
+        <kf t="0.000000" v="0.013575,0.013575" />
+        <kf t="0.144523" v="1.895928,1.895928" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+      <rotation value="-90.000000" />
+    </transform>
+    <fillColor value="#ff17e1e1" />
+    <effect id="com.alightcreative.effects.edgeglow" locallyApplied="true">
+      <property name="smoothing" type="float" value="5.000000" />
+      <property name="threshold" type="float" value="0.700000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="strength" type="float" value="0.100000" />
+      <property name="spread" type="float" value="1.500000" />
+      <property name="fillColor" type="color" value="#ff0088ff" />
+      <property name="blend" type="float" value="0.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="brightness" type="float" value="0.000000" />
+      <property name="tintColor" type="color" value="#ff000000" />
+      <property name="tint" type="float" value="0.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="61.000000" />
+    </shadow>
+    <content>GOD</content>
+  </text>
+  <shape id="6464687" label="20231228_184248.png" startTime="5000" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000038493" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location value="1798.216309,-956.838379,-2102.757324" />
+      <scale>
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.255293" v="0.301852,0.301852" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+      <rotation value="-90.000000" />
+    </transform>
+    <shadow direction="outside">
+      <size value="99.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <shape id="6464688" label="Screenshot_2023-12-28-17-23-21-422_com.instagram.android-edit.jpg" startTime="5850" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000037878" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="1663.916260,-885.117432,-2769.850098" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,673.500000" />
+  </shape>
+  <shape id="6464689" label="Shape 1" startTime="6000" endTime="7015" fillType="color" mediaFillMode="stretch" parent="6464673">
+    <transform>
+      <location>
+        <kf t="0.000000" v="1395.047607,-405.121948,-2952.383301" />
+        <kf t="0.993103" v="2261.419678,-761.542786,-2952.383301" />
+      </location>
+      <scale value="0.355556,0.355556" />
+      <rotation value="-0.000023" />
+    </transform>
+    <fillColor value="#ffff9500" />
+    <effect id="com.alightcreative.glow" locallyApplied="true">
+      <property name="radius" type="float" value="100.000000" />
+      <property name="alpha" type="float" value="0.750000" />
+      <property name="hardness" type="float" value="0.500000" />
+      <property name="color" type="color" value="#fff4b446" />
+      <property name="blendMode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.edgeglow" locallyApplied="true">
+      <property name="smoothing" type="float" value="5.000000" />
+      <property name="threshold" type="float" value="0.700000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="strength" type="float" value="0.100000" />
+      <property name="spread" type="float" value="1.500000" />
+      <property name="fillColor" type="color" value="#ff0088ff" />
+      <property name="blend" type="float" value="0.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="brightness" type="float" value="0.000000" />
+      <property name="tintColor" type="color" value="#ff000000" />
+      <property name="tint" type="float" value="0.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="61.000000" />
+    </shadow>
+    <path d="M -1.40373 337.5C 233.29016 294.32904, 318.6055 182.68643, 254.54276 2.57216C 254.54276 57.429546, 223.3621 106.05339, 209.2972 93.991295C 196.79105 83.26582, 202.28535 14.399806, 187.04352 14.399806C 187.04352 59.91421, 167.71494 98.819405, 161.23611 93.991295C 141.4225 79.22516, 137.39989 41.165604, 149.16829 -20.186954C 172.61292 -90.97975, 165.09393 -144.60298, 126.61177 -181.05685C 126.61177 -109.21656, 79.0867 -79.01938, 25.040335 -89.17317C -54.604034 -123.740395, -75.19491 -206.51608, -36.732704 -337.5C -79.50294 -308.73703, -108.51449 -272.59525, -123.767784 -229.07451C -137.52646 -189.81966, -137.52646 -143.18587, -123.767784 -89.17317C -103.275024 -21.020058, -111.83587 19.22303, -149.45032 31.555893C -193.7878 46.676464, -218.64209 16.150757, -224.01321 -60.021454C -269.02646 34.94629, -279.20294 109.40599, -254.54276 163.35806C -222.03696 234.47578, -154.69487 285.08566, -52.51649 315.1877C -131.9727 257.2109, -171.70102 190.31287, -171.70102 114.49319C -171.70102 91.356705, -161.70206 204.57294, -93.76025 194.41533C -81.87207 192.63783, -69.74776 190.13618, -61.35468 178.08089C -42.427048 150.8944, -34.21958 75.99106, -36.732704 -46.62911C -4.9854717 -22.37622, 19.083082 7.7430267, 35.472958 43.72842C 68.79764 116.8961, 35.472958 185.88867, 79.0867 207.66263C 122.70002 229.43637, 175.99886 143.99954, 163.99814 163.35806C 154.11171 242.26575, 98.977615 300.31326, -1.40373 337.5Z" />
+  </shape>
+  <shape id="6464690" label="Screenshot_2023-12-28-17-22-50-256_com.instagram.android-edit.jpg" startTime="6783" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000037870" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="1694.485107,-917.664307,-3299.636230" />
+      <scale>
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.317204" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+      <rotation value="-1.235832" />
+    </transform>
+    <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+      <property name="angle" type="float">
+        <kf t="0.000000" v="-90.000000" />
+        <kf t="0.310036" v="0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </property>
+      <property name="axis" type="float" value="0.000000" />
+      <property name="crop" type="float" value="1.000000" />
+      <property name="zdist" type="float" value="0.000000" />
+      <property name="solid" type="bool" value="false" />
+      <property name="solidColor" type="color" value="#ffdd4455" />
+      <property name="thickness" type="float" value="1.000000" />
+      <property name="enableLight" type="bool" value="false" />
+      <property name="lightIntensity" type="float" value="1.000000" />
+      <property name="lightColor" type="color" value="#ffffffff" />
+      <property name="shine" type="float" value="0.800000" />
+      <property name="spec" type="float" value="30.000000" />
+      <property name="ambient" type="float" value="0.100000" />
+      <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+      <property name="lightDepth" type="float" value="-100.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="50.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,666.000000" />
+  </shape>
+  <shape id="6464691" label="20231228_184153.png" startTime="7016" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000038494" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location value="2123.147705,-545.928711,-3771.159180" />
+      <scale>
+        <kf t="0.746373" v="1.000000,1.000000" />
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.254627" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="1.008504" v="0.000000,0.000000" e="cubicBezier 1.0 0.0 1.0 1.0" />
+      </scale>
+      <rotation>
+        <kf t="0.820410" v="10.975610" />
+        <kf t="0.184592" v="-74.634155" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="83.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="234.558762,234.558762" />
+  </shape>
+  <shape id="6464692" label="Screenshot_2023-12-28-17-25-38-215_com.instagram.android-edit.jpg" startTime="7733" endTime="9015" fillType="media" fillImage="content://media/external/images/media/1000037858" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="2792.007324,-883.002197,-3594.534668" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,603.500000" />
+  </shape>
+  <nullobj id="6464693" label="Null 8" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464694" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.110478" v="0.000000,0.000000,0.000000" />
+        <kf t="0.286244" v="-105.091644,-929.441467,201.388062" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.110478" v="0.000000" />
+        <kf t="0.286244" v="90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464694" label="Null 9" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464695" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.250606" v="0.000000,0.000000,0.000000" />
+        <kf t="0.428795" v="0.000000,0.000000,744.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464695" label="Null 10" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464696" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.402708" v="0.000000,0.000000,0.000000" />
+        <kf t="0.509622" v="-329.000000,-11.189575,-257.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464696" label="Null 11" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464697" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.476265" v="0.000000,0.000000,0.000000" />
+        <kf t="0.571347" v="-255.106262,7.065613,-105.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464697" label="Null 12" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464698" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.540413" v="0.000000,0.000000,0.000000" />
+        <kf t="0.713899" v="0.000000,0.000000,1258.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.540413" v="0.000000" />
+        <kf t="0.713899" v="-90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464698" label="Null 13" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464699" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.680684" v="0.000000,0.000000,0.000000" />
+        <kf t="0.854027" v="0.000000,0.000000,897.585938" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464699" label="Null 14" startTime="2000" endTime="9015" mediaFillMode="stretch" parent="6464718" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.820813" v="0.000000,0.000000,0.000000" />
+        <kf t="0.999002" v="-1132.084351,6.706909,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <shape id="6464700" label="Screenshot_2023-12-28-16-59-16-268_com.instagram.android-edit.jpg" startTime="8666" endTime="13015" fillType="media" fillImage="content://media/external/images/media/1000037876" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="2789.867676,-897.362061,-4892.446289" />
+      <rotation value="90.000000" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,615.500000" />
+  </shape>
+  <shape id="6464701" label="Screenshot_2023-12-28-17-01-12-471_com.instagram.android-edit.jpg" startTime="9733" endTime="13015" fillType="media" fillImage="content://media/external/images/media/1000037883" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.002438" v="3392.257080,-208.508896,-5141.469238" />
+        <kf t="0.236136" v="3035.578857,-743.508728,-5141.469238" e="cubicBezier 0.0 0.0 0.31930345 1.0" />
+      </location>
+      <scale value="0.250189,0.250189" />
+      <rotation>
+        <kf t="0.000000" v="136.097565" />
+        <kf t="0.388483" v="61.463394" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="95.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,661.500000" />
+  </shape>
+  <shape id="6464702" label="Screenshot_2023-12-28-17-01-38-772_com.instagram.android-edit.jpg" startTime="10733" endTime="13015" fillType="media" fillImage="content://media/external/images/media/1000037865" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.003506" v="2203.312012,-1101.327637,-5546.969727" />
+        <kf t="0.303243" v="2759.812012,-894.827576,-5546.969727" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.243265,0.243265" />
+      <rotation>
+        <kf t="0.000000" v="-26.341461" />
+        <kf t="0.434706" v="108.658539" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="157.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,612.500000" />
+  </shape>
+  <shape id="6464703" label="1703778535904.png" startTime="10000" endTime="12015" fillType="media" fillImage="content://media/external/images/media/1000038500" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="2761.728760,-895.309387,-5165.104004" />
+        <kf t="0.500248" v="2899.590576,-770.553162,-5165.104004" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.108333,0.108333" />
+      <rotation>
+        <kf t="0.000000" v="-57.073181" />
+        <kf t="0.500248" v="69.457779" e="cubicBezier 0.0 0.0 0.44268656 1.0" />
+      </rotation>
+      <opacity>
+        <kf t="0.194045" v="1.000000" />
+        <kf t="0.003970" v="0.000000" />
+      </opacity>
+    </transform>
+    <shadow direction="outside">
+      <size value="45.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <shape id="6464704" label="1703778535904.png Copy" startTime="10000" endTime="12015" fillType="media" fillImage="content://media/external/images/media/1000038500" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3330.662109,-487.312134,-5165.104004" />
+        <kf t="0.500248" v="3133.740234,-720.456116,-5165.104004" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.108333,0.108333" />
+      <rotation>
+        <kf t="0.000000" v="-75.731720" />
+        <kf t="0.500248" v="69.457779" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="40.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <shape id="6464705" label="Screenshot_2023-12-28-16-59-55-528_com.instagram.android-edit.jpg" startTime="11766" endTime="14032" fillType="media" fillImage="content://media/external/images/media/1000037858" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="2672.746338,34.832520,-5638.042480" />
+        <kf t="0.172992" v="2661.151367,-272.122803,-5638.042480" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+    </transform>
+    <property name="size" type="vec2" value="540.000000,621.500000" />
+  </shape>
+  <shape id="6464706" label="Screenshot_2023-12-28-17-00-24-286_com.instagram.android-edit.jpg" startTime="12783" endTime="15015" fillType="media" fillImage="content://media/external/images/media/1000037883" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3588.834473,-249.438675,-5752.493164" />
+      <rotation value="1.382965" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,614.500000" />
+  </shape>
+  <text id="6464707" startTime="11750" endTime="13765" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Sunshine.ttf" wrapWidth="512" align="center">
+    <transform>
+      <location value="2661.466064,197.521667,-5772.020996" />
+      <scale value="1.634766,1.634766" />
+      <rotation value="0.000908" />
+    </transform>
+    <effect id="com.alightcreative.effects.texttransform" locallyApplied="false">
+      <property name="start" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="0.682382" v="1.000000" e="cubicBezier 1.0 0.06737968 1.0 1.0" />
+      </property>
+      <property name="end" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="component" type="int" value="1" />
+      <property name="anchor" type="int" value="1" />
+      <property name="offset" type="vec2" value="0.000000,40.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="scale" type="float" value="-1.000000" />
+      <property name="stretch" type="float" value="0.000000" />
+      <property name="alpha" type="float" value="0.000000" />
+      <property name="useFillColor" type="bool" value="false" />
+      <property name="fillColor" type="color" value="#ff00ff00" />
+      <property name="easeIn" type="float" value="0.260000" />
+      <property name="easeOut" type="float" value="-1.000000" />
+      <property name="overlap" type="float" value="1.300000" />
+      <property name="shape" type="int" value="0" />
+      <property name="randomOrder" type="bool" value="false" />
+      <property name="seed" type="float" value="0.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="25.000000" />
+    </shadow>
+    <content>Mano Rat Baithi </content>
+  </text>
+  <shape id="6464708" label="Screenshot_2023-12-28-17-00-10-326_com.instagram.android-edit.jpg" startTime="13716" endTime="15015" fillType="media" fillImage="content://media/external/images/media/1000037873" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4145.288086,-298.085754,-6143.028809" />
+        <kf t="1.000000" v="3602.745361,-273.351929,-6143.028809" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.298013,0.298013" />
+      <rotation value="-89.999992" />
+    </transform>
+    <shadow direction="outside">
+      <size value="90.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,604.000000" />
+  </shape>
+  <text id="6464709" label="Verse ye saare Copy" startTime="13733" endTime="15015" fillType="color" blending="linear-dodge" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Market_Deco.ttf" wrapWidth="558" align="center">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3378.487793,-727.229309,-6207.427246" />
+        <kf t="1.000000" v="3421.023682,-276.399292,-6207.427246" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.584229,0.584229" />
+      <rotation value="-89.999992" />
+    </transform>
+    <fillColor value="#ff00ff00" />
+    <shadow direction="outside">
+      <size value="46.000000" />
+    </shadow>
+    <content>Verse ye saare</content>
+  </text>
+  <shape id="6464710" label="Screenshot_2023-12-28-17-02-31-403_com.instagram.android-edit.jpg" startTime="15000" endTime="21015" fillType="media" fillImage="content://media/external/images/media/1000037879" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3565.676758,-236.163452,-4302.030762" />
+      <rotation value="-90.000000" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,660.500000" />
+  </shape>
+  <shape id="6464711" label="Screenshot_2023-12-28-17-10-53-332_com.instagram.android-edit.jpg" startTime="15000" endTime="21015" fillType="media" fillImage="content://media/external/images/media/1000038503" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3940.903320,-1382.819824,-4326.030762" />
+      <scale value="1.168876,1.168876" />
+      <rotation value="-90.000000" />
+    </transform>
+    <property name="size" type="vec2" value="428.685059,833.897461" />
+  </shape>
+  <shape id="6464712" label="ye behen ka loda jahan dikh jata hai mere ko gussa bahot aata hai bhai - arpit bala meme template [N87n6edSobg].mp4" startTime="16500" endTime="21015" fillType="media" fillImage="content://media/external/images/media/1000019102" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4516.916992,-1394.247925,-4928.028809" />
+        <kf t="0.112514" v="4049.416748,-1379.747925,-4928.028809" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.509259,0.509259" />
+      <rotation value="-90.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.oscillate3" locallyApplied="true">
+      <property name="direction" type="int" value="0" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="freq" type="float" value="0.500000" />
+      <property name="mag" type="float" value="20.000000" />
+      <property name="type" type="int" value="0" />
+      <property name="phase" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.glow" locallyApplied="true">
+      <property name="radius" type="float" value="100.000000" />
+      <property name="alpha" type="float" value="0.750000" />
+      <property name="hardness" type="float" value="0.500000" />
+      <property name="color" type="color" value="#ff000000" />
+      <property name="blendMode" type="int" value="0" />
+    </effect>
+    <path-stroke direction="centered" enabled="false" join="round" end-size="1.500000">
+      <size value="0.000000" />
+    </path-stroke>
+    <shadow direction="outside">
+      <size value="91.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="502.867554,356.674866" />
+  </shape>
+  <text id="6464713" startTime="16500" endTime="21015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Sunshine.ttf" wrapWidth="190" align="center">
+    <transform>
+      <location value="3882.656982,-1251.742676,-4968.592285" />
+      <rotation value="-90.000000" />
+    </transform>
+    <shadow direction="outside">
+      <size value="6.000000" />
+    </shadow>
+    <content>Me - </content>
+  </text>
+  <shape id="6464714" label="Screenshot_2023-12-28-17-04-25-852_com.instagram.android-edit.jpg" startTime="20666" endTime="23015" fillType="media" fillImage="content://media/external/images/media/1000037860" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3843.377197,-1387.757935,-5672.050293" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,594.000000" />
+  </shape>
+  <shape id="6464715" label="Screenshot_2023-12-28-17-04-45-989_com.instagram.android-edit.jpg" startTime="21700" endTime="23015" fillType="media" fillImage="content://media/external/images/media/1000037869" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3909.357666,151.295013,-6107.977051" />
+        <kf t="0.386311" v="3945.684570,-380.480652,-6107.977051" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <rotation value="21.951220" />
+    </transform>
+    <shadow direction="outside">
+      <size value="111.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,602.000000" />
+  </shape>
+  <text id="6464716" startTime="21800" endTime="23015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=roastink demo.ttf" wrapWidth="512" align="center">
+    <transform>
+      <location value="3825.608643,-149.721313,-6225.665527" />
+      <scale value="2.005859,2.005859" />
+      <rotation value="26.341469" />
+    </transform>
+    <fillColor value="#ff1ed91e" />
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.000000" v="0.645000" />
+        <kf t="0.994239" v="0.000000" e="cubicBezier 0.0 0.0 0.5472637 1.0" />
+      </property>
+      <property name="end" type="float" value="0.706000" />
+      <property name="angle" type="float" value="172.500000" />
+      <property name="feather" type="float" value="0.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="41.000000" />
+    </shadow>
+    <content>MAAL</content>
+  </text>
+  <shape id="6464717" label="1703781893997.png" startTime="21783" endTime="23015" fillType="media" fillImage="content://media/external/images/media/1000038497" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3742.316650,-246.081711,-6291.665527" />
+        <kf t="0.980520" v="4048.357178,-94.551147,-6291.665527" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.270370,0.270370" />
+      <rotation value="113.048790" />
+    </transform>
+    <shadow direction="outside">
+      <size value="29.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="447.283691,446.813293" />
+  </shape>
+  <nullobj id="6464718" label="Null 15" startTime="2000" endTime="10015" mediaFillMode="stretch" parent="6464719" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.830692" v="0.000000,0.000000,0.000000" />
+        <kf t="0.999127" v="0.000000,0.000000,1127.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.830692" v="0.000000" />
+        <kf t="0.999127" v="-90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464719" label="Null 16" startTime="9000" endTime="14032" mediaFillMode="stretch" parent="6464720" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.147258" v="0.000000,0.000000,0.000000" />
+        <kf t="0.399046" v="-243.086792,148.880127,-469.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.147258" v="0.000000" />
+        <kf t="0.399046" v="26.341463" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464720" label="Null 17" startTime="9000" endTime="14032" mediaFillMode="stretch" parent="6464721" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.349364" v="0.000000,0.000000,0.000000" />
+        <kf t="0.597774" v="112.605774,-307.500000,322.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.349364" v="0.000000" />
+        <kf t="0.597774" v="-38.414642" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464721" label="Null 18" startTime="9000" endTime="14032" mediaFillMode="stretch" parent="6464722" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.551471" v="0.000000,0.000000,0.000000" />
+        <kf t="0.796502" v="112.225677,-679.358154,883.059082" e="cubicBezier 0.3045771 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.551471" v="0.000000" />
+        <kf t="0.796502" v="102.073174" e="cubicBezier 0.26676616 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464722" label="Null 19" startTime="9000" endTime="14032" mediaFillMode="stretch" parent="6464723" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.750199" v="0.000000,0.000000,0.000000" />
+        <kf t="0.998609" v="-903.500000,20.741211,40.499992" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464723" label="Null 20" startTime="9000" endTime="15015" mediaFillMode="stretch" parent="6464724" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.793849" v="0.000000,0.000000,0.000000" />
+        <kf t="0.998836" v="-25.127686,-8.500000,-129.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.793849" v="0.000000" />
+        <kf t="0.998836" v="90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464724" label="Null 21" startTime="14016" endTime="19015" mediaFillMode="stretch" parent="6464725" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.145028" v="0.000000,0.000000,0.000000" />
+        <kf t="0.398479" v="0.000000,0.000000,-859.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464725" label="Null 22" startTime="14016" endTime="19015" mediaFillMode="stretch" parent="6464726" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.335067" v="0.000000,0.000000,0.000000" />
+        <kf t="0.498500" v="-1091.500000,-9.663818,401.499878" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464726" label="Null 23" startTime="14016" endTime="19015" mediaFillMode="stretch" parent="6464727" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.461892" v="0.000000,0.000000,0.000000" />
+        <kf t="0.598520" v="0.000000,0.000000,-906.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464727" label="Null 24" startTime="14016" endTime="19015" mediaFillMode="stretch" parent="6464737" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.568514" v="0.000000,0.000000,0.000000" />
+        <kf t="0.798559" v="-9.509949,-273.960327,427.792725" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <shape id="6464728" label="Screenshot_2023-12-28-17-08-02-623_com.instagram.android-edit.jpg" startTime="22783" endTime="25015" fillType="media" fillImage="content://media/external/images/media/1000037872" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3930.075928,-423.533447,-7049.445801" />
+      <rotation value="-90.000000" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,654.500000" />
+  </shape>
+  <shape id="6464729" label="Screenshot_2023-12-28-17-08-18-796_com.instagram.android-edit.jpg" startTime="23783" endTime="27015" fillType="media" fillImage="content://media/external/images/media/1000037877" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4919.211914,-905.772583,-7520.845215" />
+        <kf t="0.219059" v="4626.864746,-723.566467,-7520.845215" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <rotation value="-113.048782" />
+    </transform>
+    <shadow direction="outside">
+      <size value="139.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,664.500000" />
+  </shape>
+  <text id="6464730" startTime="24800" endTime="27015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=roastink demo.ttf" wrapWidth="512" align="left">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4344.896973,-1874.665283,-7616.818359" />
+        <kf t="0.545372" v="4535.013672,-1382.610229,-7616.818359" e="cubicBezier 0.0 0.0 0.3650746 1.0" />
+      </location>
+      <scale value="2.443359,2.443359" />
+      <rotation value="-110.853500" />
+    </transform>
+    <shadow direction="outside">
+      <size value="62.000000" />
+    </shadow>
+    <content>Kon Hai bhi </content>
+  </text>
+  <shape id="6464731" label="20230921_215354.png" startTime="24800" endTime="27015" fillType="media" fillImage="content://media/external/images/media/1000038496" mediaFillMode="fit" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.003612" v="4341.072754,-1293.378662,-7624.818359" />
+        <kf t="0.553047" v="4545.460938,-848.162354,-7624.818359" e="cubicBezier 0.0 0.0 0.00288558 1.0" />
+      </location>
+      <scale value="0.154630,0.154630" />
+      <rotation>
+        <kf t="0.003612" v="-12.073181" />
+        <kf t="0.545372" v="-96.585358" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="50.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <shape id="6464732" label="Shape 2" startTime="24316" endTime="27015" fillType="color" mediaFillMode="stretch" parent="6464673">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4575.589844,-1178.161499,-7635.318359" />
+        <kf t="0.256391" v="4817.682129,-637.537109,-7635.318359" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+      <scale value="0.566667,0.566667" />
+      <rotation value="-110.853500" />
+    </transform>
+    <fillColor value="#ffff0044" />
+    <shadow direction="outside">
+      <size value="70.000000" />
+    </shadow>
+    <path d="M -270.0 -93.99575C -270.0 -168.5542, -209.55844 -228.99576, -135.0 -228.99576C -78.70665 -228.99576, -17.135292 -187.82576, 1.6226754 -134.44576C 20.808687 -185.6361, 77.11077 -228.99576, 135.0 -228.99576C 209.55846 -228.99576, 270.0 -168.5542, 270.0 -93.99575C 270.0 -31.331913, 179.02423 76.331924, -2.9273283 228.99576C -180.97578 76.331924, -270.0 -31.331913, -270.0 -93.99575Z" />
+  </shape>
+  <shape id="6464733" label="Screenshot_2023-12-28-17-16-09-840_com.instagram.android-edit.jpg" startTime="26766" endTime="29032" fillType="media" fillImage="content://media/external/images/media/1000037880" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="4355.894043,-1154.673462,-8737.994141" />
+      <rotation value="-194.268295" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,428.500000" />
+  </shape>
+  <text id="6464734" startTime="27000" endTime="29015" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Market_Deco.ttf" wrapWidth="810" align="center">
+    <transform>
+      <location value="4332.690918,-1198.584595,-9062.097656" />
+      <scale value="0.653086,0.653086" />
+      <rotation value="-200.853149" />
+    </transform>
+    <shadow direction="outside">
+      <size value="22.000000" />
+    </shadow>
+    <content>BHAI     TO     BHAI </content>
+  </text>
+  <shape id="6464735" label="Screenshot_2023-12-28-17-15-17-974_com.instagram.android-edit.jpg" startTime="28366" endTime="30382" fillType="media" fillImage="content://media/external/images/media/1000037868" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3920.488525,-2247.006836,-9184.601563" />
+        <kf t="0.334821" v="4003.446289,-1778.489014,-9184.601563" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <rotation value="-102.073181" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,657.500000" />
+  </shape>
+  <text id="6464736" startTime="28366" endTime="30349" fillType="color" mediaFillMode="stretch" parent="6464673" size="18.000000" font="imported?name=Sunshine.ttf" wrapWidth="512" align="center">
+    <transform>
+      <location>
+        <kf t="0.000000" v="4167.669922,-2549.969238,-9432.601563" />
+        <kf t="0.500252" v="4404.065918,-1929.404297,-9432.601563" e="cubicBezier 0.0 0.0 0.028756201 1.0" />
+      </location>
+      <scale value="1.941406,1.941406" />
+      <rotation value="-110.853668" />
+    </transform>
+    <fillColor value="#ffff0080" />
+    <shadow direction="outside">
+      <size value="25.000000" />
+    </shadow>
+    <content>Setting HAI </content>
+  </text>
+  <nullobj id="6464737" label="Null 25" startTime="14016" endTime="23015" mediaFillMode="stretch" parent="6464738" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.738082" v="0.000000,0.000000,0.000000" />
+        <kf t="0.888099" v="0.000000,0.000000,1084.500122" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.738082" v="0.000000" />
+        <kf t="0.888099" v="-90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464738" label="Null 26" startTime="14016" endTime="24015" mediaFillMode="stretch" parent="6464739" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.769277" v="0.000092,0.000122,0.000000" />
+        <kf t="0.899290" v="-507.017609,-839.369202,319.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.770977" v="0.000004" />
+        <kf t="0.899290" v="-26.341455" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464739" label="Null 27" startTime="22700" endTime="29865" mediaFillMode="stretch" parent="6464740" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.012701" v="0.000000,0.000000,0.000000" />
+        <kf t="0.182554" v="0.000000,0.000000,1097.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.012701" v="0.000000" />
+        <kf t="0.182554" v="119.634148" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464740" label="Null 28" startTime="23000" endTime="29865" mediaFillMode="stretch" parent="6464741" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.115222" v="0.000000,0.000000,0.000000" />
+        <kf t="0.292498" v="10.487366,-670.500000,327.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.115222" v="0.000000" />
+        <kf t="0.292498" v="17.560974" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464741" label="Null 29" startTime="23000" endTime="29865" mediaFillMode="stretch" parent="6464742" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.251275" v="0.000000,0.000000,0.000000" />
+        <kf t="0.362855" v="110.069733,-162.500000,-361.972412" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464742" label="Null 30" startTime="23000" endTime="29865" mediaFillMode="stretch" parent="6464743" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.338674" v="0.000000,0.000000,0.000000" />
+        <kf t="0.438165" v="-293.500000,181.500000,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464743" label="Null 31" startTime="23000" endTime="29865" mediaFillMode="stretch" parent="6464744" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.416315" v="0.303162,0.012939,0.000000" />
+        <kf t="0.583831" v="-376.762634,-16.097412,602.752258" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464744" label="Null 32" startTime="26000" endTime="29865" mediaFillMode="stretch" parent="6464745" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.196119" v="0.000000,0.000000,0.000000" />
+        <kf t="0.394567" v="145.928589,-3.079041,545.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.196119" v="0.000000" />
+        <kf t="0.394567" v="90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464745" label="Null 33" startTime="26000" endTime="29865" mediaFillMode="stretch" parent="6464746" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.346960" v="0.000000,0.000000,0.000000" />
+        <kf t="0.523933" v="-142.500000,0.000000,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464746" label="Null 34" startTime="26000" endTime="29865" mediaFillMode="stretch" parent="6464747" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.480724" v="0.000000,0.000000,0.000000" />
+        <kf t="0.653299" v="-166.026611,-7.897522,0.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464747" label="Null 35" startTime="26000" endTime="29865" mediaFillMode="stretch" parent="6464751" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.597154" v="0.000000,0.000000,0.000000" />
+        <kf t="0.782665" v="-707.289917,-103.891846,1061.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.597154" v="0.000000" />
+        <kf t="0.782665" v="-90.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <shape id="6464748" label="Screenshot_2023-12-28-17-21-04-870_com.instagram.android-edit.jpg" startTime="29016" endTime="31999" fillType="media" fillImage="content://media/external/images/media/1000037867" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3714.870850,-2672.774902,-9698.226563" />
+      <rotation value="-110.861572" />
+    </transform>
+    <property name="size" type="vec2" value="540.000000,662.000000" />
+  </shape>
+  <shape id="6464749" label="Screenshot_2023-12-28-17-21-24-457_com.instagram.android-edit.jpg" startTime="29800" endTime="31999" fillType="media" fillImage="content://media/external/images/media/1000037865" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000000" v="3623.819824,-3388.213623,-9932.128906" />
+        <kf t="0.541610" v="3820.032471,-2849.256348,-9932.128906" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="0.327521,0.327521" />
+      <rotation>
+        <kf t="0.000000" v="0.000000" />
+        <kf t="0.541610" v="-86.707321" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+    <shadow direction="outside">
+      <size value="46.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="540.000000,659.500000" />
+  </shape>
+  <shape id="6464750" label="Screenshot_2023-12-28-17-18-29-213_com.instagram.android-edit.jpg" startTime="30800" endTime="32415" fillType="media" fillImage="content://media/external/images/media/1000037864" mediaFillMode="fill" parent="6464673" s=".rect">
+    <transform>
+      <location value="3697.111816,-2696.023926,-10901.099609" />
+      <rotation value="-110.853668" />
+      <opacity>
+        <kf t="0.737461" v="1.000000" />
+        <kf t="0.995666" v="0.000000" />
+      </opacity>
+    </transform>
+    <property name="size" type="vec2" value="540.000000,664.500000" />
+  </shape>
+  <nullobj id="6464751" label="Null 36" startTime="28516" endTime="30532" mediaFillMode="stretch" parent="6464752" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.161210" v="0.000000,0.000000,0.000000" />
+        <kf t="0.740079" v="-949.000000,8.553772,452.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="6464752" label="Null 37" startTime="28516" endTime="32415" mediaFillMode="stretch" parent="6464753" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.327007" v="0.000000,0.000000,0.000000" />
+        <kf t="0.634778" v="-162.500000,-101.945313,-451.500000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.327007" v="0.000000" />
+        <kf t="0.634778" v="-29.634155" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="6464753" label="Null 38" startTime="28516" endTime="32415" mediaFillMode="stretch" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.583483" v="539.942627,674.648865,0.000000" />
+        <kf t="0.891254" v="570.523193,861.761414,1537.000000" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </location>
+      <rotation>
+        <kf t="0.583483" v="-0.086514" />
+        <kf t="0.891254" v="46.011047" e="cubicBezier 0.42 0.0 0.0 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <text id="6464778" startTime="0" endTime="32457" fillType="color" blending="overlay" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Bahiana&amp;weight=400" wrapWidth="473" align="left">
+    <transform>
+      <location value="540.000000,1233.000000,0.000000" />
+      <scale value="0.446089,0.446089" />
+    </transform>
+    <effect id="com.alightcreative.effects.longshadow2" locallyApplied="true">
+      <property name="size" type="float" value="0.012000" />
+      <property name="angle" type="float" value="47.000000" />
+      <property name="color" type="color" value="#ff000000" />
+      <property name="alpha" type="float" value="0.593000" />
+      <property name="solidity" type="float" value="0.995000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="fade" type="float" value="0.000000" />
+      <property name="fadeType" type="int" value="0" />
+    </effect>
+    <content>Random XML</content>
+  </text>
+</scene>
